@@ -11,6 +11,9 @@ int main()
     int liczba1,liczba2,i;
     printf("Podaj liczba 1: ");
     scanf("%i",&liczba1);
+    printf("Podaj liczba 1: ");
+    scanf("%i",&liczba2);
+    if (liczba1<=liczba2)
     {
         for (i=liczba1;i<=liczba2;i++)
             if(i%2==0)printf("%3i",i);
