@@ -1,5 +1,4 @@
 <html>
-  
   <head>
   <title> Strona początkowa </title>
   </head>
