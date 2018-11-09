@@ -1,7 +1,7 @@
 <html>
   
   <head>
-  <title "Strona początkowa">
+  <title> "Strona początkowa" </title>
   </head>
   
   <body>
