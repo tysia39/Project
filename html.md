@@ -4,8 +4,8 @@
   </head>
   
   <body>
-  <h2> Obrazek </h2>
-  <img scr="https://icdn.2cda.pl/obr/oryginalne/850ca7d90566b9ed82c60d9d50771230.jpg" alt="klik">
+  <h2> Obrazek: </h2> <br>
+  <img scr="https://www.dekoracjan.pl/444-home_default/pow-obrazek-dekoracyjny.jpg" alt="klik">
   
   </body>
   
